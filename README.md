@@ -1,5 +1,8 @@
-<img src="https://github.com/ychibani42/ychibani42/assets/55283897/8a7ddd97-40fd-4ede-99fc-6fc96afbab2b">
 
+<p align="center">
+ <img width="1280px" src="https://github.com/ychibani42/ychibani42/assets/55283897/8a7ddd97-40fd-4ede-99fc-6fc96afbab2b" align="center"/>
+
+    
 ```c
 const __ychibani = {
     code 🍝: ["C", "C++", "Html", "Css", "Javascript", "Typescript", "Arduino"],
