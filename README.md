@@ -1,4 +1,4 @@
-<img src="https://github.com/ychibani42/ychibani42/assets/55283897/8a7ddd97-40fd-4ede-99fc-6fc96afbab2b" width=1280 height=640>
+<img src="https://github.com/ychibani42/ychibani42/assets/55283897/8a7ddd97-40fd-4ede-99fc-6fc96afbab2b">
 
 ```c
 const __ychibani = {
