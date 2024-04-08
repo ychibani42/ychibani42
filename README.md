@@ -5,15 +5,17 @@
     
 ```c
 const __ychibani = {
-    code 🍝: ["C", "C++", "Html", "Css", "Javascript", "Typescript", "Arduino"],
+    code 🍝: ["Python", "C", "C++", "Html", "Css", "VueJs", "Javascript", "Typescript", "Arduino"],
     askMeAbout 🥊: ["Dev", "Sports", "Videogames", "Anime"],
     technologies 💻: {
         backEnd: {
-            js: ["Nestjs", "Express"],
+            js: ["Nestjs", "Express", "Prisma"],
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["PostgreSql", "MySql"],
-        misc: ["Socket.IO"]
+        misc: ["Socket.IO"],
+        graphics: ["Vulkan", "OpenGl"],
+        machine_learning: ["Numpy", "Python", "Panda", "Jupiter", "TenserFlow"]
     },
     currentFocus 🔭: "42 Common Core, I'm looking for an internship anywhere I can find people willing to work with passion.",
     reachMe: {
