@@ -5,8 +5,8 @@
     
 ```c
 const __ychibani = {
+    currentFocus 🔭: "42 Common Core, I'm looking for an internship anywhere I can find people willing to work with passion.",
     code 🍝: ["Python", "C", "C++", "Html", "Css", "VueJs", "Javascript", "Typescript", "Arduino"],
-    askMeAbout 🥊: ["Dev", "Sports", "Videogames", "Anime"],
     technologies 💻: {
         backEnd: {
             js: ["Nestjs", "Express", "Prisma"],
@@ -15,9 +15,9 @@ const __ychibani = {
         databases: ["PostgreSql", "MySql"],
         misc: ["Socket.IO"],
         graphics: ["Vulkan", "OpenGl"],
-        machine_learning: ["Numpy", "Python", "Panda", "Jupiter", "TenserFlow"]
+        machine_learning: ["Numpy", "Python", "Pandas", "Jupyter", "TenserFlow", "LLM"]
     },
-    currentFocus 🔭: "42 Common Core, I'm looking for an internship anywhere I can find people willing to work with passion.",
+    askMeAbout 🥊: ["Dev", "Sports", "Videogames", "Anime"],
     reachMe: {
         email 📫: ["ychibani@student.42.fr"],
         discord ["ychibani#2228"]
